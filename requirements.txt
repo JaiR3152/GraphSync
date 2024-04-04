@@ -1,0 +1,4 @@
+PyODBC==4.0.32
+psycopg2==2.9.1
+cx_Oracle==8.2.1
+neo4j==4.4.0
